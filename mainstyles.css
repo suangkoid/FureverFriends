@@ -1,0 +1,30 @@
+@charset "utf-8";
+h1 {
+	color: #F309BF;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	font-style: italic;
+	text-align: left;
+}
+a {
+	text-decoration: none;
+	color: #0B5218;
+	font-weight: bold;
+}
+
+body  {
+	color: #071BF8;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+	font-size: medium;
+	text-align: justify;
+	background-color: #C2F8ED;
+	margin-left: 25px;
+	margin-right: 25px;
+}
+li {
+	color: #6706BB;
+	font-style: normal;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	font-weight: bold;
+	font-size: large;
+	text-align: left;
+}
